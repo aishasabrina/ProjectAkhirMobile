@@ -1,4 +1,4 @@
-# projectbebanpikiran
+# DrinkTale
 
 A new Flutter project.
 
